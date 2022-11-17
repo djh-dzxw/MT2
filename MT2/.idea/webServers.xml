@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ec87aab3-844b-46aa-852e-1edacf67fa58" name="MT2">
+        <fileTransfer rootFolder="/raid/zby/NeurISP2022-CellSeg-github/MT2" accessType="SFTP" host="10.112.7.175" port="22" sshConfigId="302097a8-4bf7-43ea-92ef-2f98e47b3d69" sshConfig="spring@10.112.7.175:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

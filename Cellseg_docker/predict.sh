@@ -1,0 +1,1 @@
+python run.py --test_image_dir /workspace/inputs/  --output_dir /workspace/outputs/

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c7b34986-aa82-43a8-a187-429c6e862276" name="docker_final">
+        <fileTransfer rootFolder="/raid/zby/specifically_for_submitted/Cellseg_docker" accessType="SFTP" host="10.112.7.175" port="22" sshConfigId="302097a8-4bf7-43ea-92ef-2f98e47b3d69" sshConfig="spring@10.112.7.175:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
